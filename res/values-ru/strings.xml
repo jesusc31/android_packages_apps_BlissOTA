@@ -53,12 +53,12 @@
     <string name="available_delete_confirm_message">Вы уверены, что хотите удалить скачанный файл обновления?</string>
     <string name="available_reboot_confirm">Желаете перезагрузить прямо сейчас?</string>
     <string name="available_url_error">Ошибка URL: свяжитесь с разработчиком прошивки</string>
-    <string name="available_reboot_manual_title">Пожалуйста перезагрузите сейчас</string>
-    <string name="available_reboot_manual_message">"Пожалуйста перезагрузите а рекавери и установите обновление.
+    <string name="available_reboot_manual_title">Пожалуйста, перезагрузите сейчас</string>
+    <string name="available_reboot_manual_message">"Пожалуйста, перезагрузите а рекавери и установите обновление.
 
 Вы можете найти обновление в /sdcard/Downloads"</string>
     <string name="available_wrong_network_title">Выбранная сеть не доступна</string>
-    <string name="available_wrong_network_message">Вы пытаетесь загрузить обновление через передачу данных, в настройках выбрано только WiFi, сначала измените настройки!</string>
+    <string name="available_wrong_network_message">Вы пытаетесь загрузить обновление через мобильную сеть, в настройках выбрано только WiFi, сначала измените настройки!</string>
     <string name="main_update_available">Доступно обновление!</string>
     <string name="main_no_update_available">Нет доступных обновлений</string>
     <string name="main_update_filename">Имя файла</string>
@@ -66,8 +66,8 @@
     <string name="main_website">Сайт</string>
     <string name="main_donate">Пожертвование</string>
     <string name="main_donate_summary">Пожертвование разработчику прошивки</string>
-    <string name="main_tap_to_download">Кликните для загрузки</string>
-    <string name="main_download_completed_details">Загрузка завершена. Кликните для подробностей</string>
+    <string name="main_tap_to_download">Нажмите для загрузки</string>
+    <string name="main_download_completed_details">Загрузка завершена. Нажмите для подробностей</string>
     <string name="main_last_checked">Последняя проверка обновлений</string>
     <string name="main_rom_information">Информация о прошивке</string>
     <string name="main_rom_name">Название прошивки:</string>
@@ -88,17 +88,17 @@
     <string name="preferences_name">Настройки</string>
     <string name="download_folder">/sdcard/Download/</string>
     <string name="list_summary">%s</string>
-    <string name="twrp_ors_cat">Скрипт для рековери</string>
-    <string name="twrp_ors_title">Скрипт для рековери</string>
-    <string name="twrp_ors_summary">Работает на TWRP и некоторых кастомных рековери на основе CWM</string>
+    <string name="twrp_ors_cat">Скрипт для рекавери</string>
+    <string name="twrp_ors_title">Скрипт для рекавери</string>
+    <string name="twrp_ors_summary">Работает на TWRP и некоторых кастомных рекавери на основе CWM</string>
     <string name="twrp_ors_information">Если включить скрипт, ОТА обновление установится автоматически</string>
     <string name="twrp_ors_delete_after">Удалить после установки</string>
     <string name="twrp_ors_delete_after_summary">Нужно ли удалить обновление из памяти телефона после его установки?</string>
     <string name="twrp_ors_install_prefs">Действия во время установки</string>
     <string name="twrp_ors_install_prefs_summary">Выберите действия, который выполняются во время установки</string>
-    <string name="twrp_ors_wipe_data">Вайп данных</string>
-    <string name="twrp_ors_wipe_cache">Вайп кеш</string>
-    <string name="twrp_ors_wipe_dalvik">Вайп далвик</string>
+    <string name="twrp_ors_wipe_data">Стереть все данных</string>
+    <string name="twrp_ors_wipe_cache">Стереть  кеш</string>
+    <string name="twrp_ors_wipe_dalvik">Стереть далвик</string>
     <string name="notifications_title">Уведомления</string>
     <string name="background_service_title">Фоновые сервисы</string>
     <string name="background_service_summary">Автоматически проверять обновления и показывать уведомления, если доступно обновление</string>
@@ -117,11 +117,11 @@
     <string name="mobile_wifi_network">Сеть</string>
     <string name="mobile_wifi_title">Обновлять прошивку</string>
     <string name="wifi_network_only">Wi-Fi</string>
-    <string name="mobile_or_wifi">Передача данных и Wi-Fi</string>
+    <string name="mobile_or_wifi">Мобильная сеть и Wi-Fi</string>
     <string name="theme">Тема</string>
     <string name="theme_dark">Темная</string>
     <string name="theme_light">Светлая</string>
-    <string name="theme_light_dark">Светлая с черным баром</string>
+    <string name="theme_light_dark">Светлая с темным баром</string>
     <string name="notifications_sound">Звук</string>
     <string name="notifications_vibrate">Вибрация</string>
     <string name="silent_ringtone">Без звука</string>
